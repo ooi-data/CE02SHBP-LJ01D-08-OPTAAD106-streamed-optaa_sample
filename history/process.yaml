@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHBP-LJ01D-08-OPTAAD106-streamed-optaa_sample
 data_stream: CE02SHBP-LJ01D-08-OPTAAD106-streamed-optaa_sample
-end_date: '2022-01-01T01:03:03.743Z'
-last_updated: '2022-01-22T01:19:56.407852'
+end_date: '2022-02-07T19:03:03.156Z'
+last_updated: '2022-02-10T12:20:26.318723Z'
 start_date: '2014-09-25T18:29:00.000Z'
-status: failed
+status: pending
